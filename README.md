@@ -13,4 +13,6 @@
 **To zdanie jest bold.**
 
 *To zdanie jest italic*
+**To zdanie jest bold.**
 
+*To zdanie jest italic*
