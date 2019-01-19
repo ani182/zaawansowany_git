@@ -8,3 +8,8 @@
  ### lista numerowana
 1. punkt 1
 1. punkt 2
+
+## Pogrubienie i kursywa
+**To zdanie jest bold.**
+
+*To zdanie jest italic*
